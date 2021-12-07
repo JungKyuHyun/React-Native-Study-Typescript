@@ -1,6 +1,12 @@
 # React Native with Typescript
 
-RN에서 typescript를 이용하여 프로젝트를 개발해 본다.
+RN에서 typescript를 이용하여 프로젝트를 개발해 보자.
+
+배운 내용에 대한 것들은 많이 생략한다.
+
+- [설치 및 할일 만들기](https://ajdkfl6445.gitbook.io/study/mobile/react-native/install)
+- [내비게이션, Hooks](https://ajdkfl6445.gitbook.io/study/mobile/react-native/hooks)
+- [다이어리 앱 만들기](https://github.com/JungKyuHyun/React-Native-Study-Diary-App)
 
 ## Getting Start
 
